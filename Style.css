@@ -1,0 +1,7 @@
+body {background-color: cadetblue;}
+h1 {text-align: center; text-decoration-line: underline;}
+h2 {text-align: center;}
+h3 {text-align: center;}
+div.text1 {background-color: antiquewhite;  flex-wrap: wrap;  border: 2px solid rgb(0, 0, 0); width: 500px; margin: auto; text-align: center;}
+div.text2 {flex-wrap: wrap; border: 2px solid rgb(0, 0, 0); width: 500px; margin: auto; background-color: blanchedalmond; text-align: center;}
+div.text3 {background-color: darkgrey; flex-wrap: wrap; border: 1px dotted rgb(0, 0, 0); width: 1000px; margin: auto;}
